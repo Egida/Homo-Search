@@ -1,0 +1,22 @@
+{
+    "ShodanApiKey": "api",
+    "SearchSettings": {
+        "Pages": 1,
+        "Query": {
+            "Text": [
+                "ssh",
+                "22",
+                "ubuntu",
+                "hacked"
+            ],
+            "Os": "",
+            "Hash": 0,
+            "HasSSL": false,
+            "Port": 1,
+            "Net": "",
+            "Org": "",
+            "Tag": "",
+            "Region": 0
+        }
+    }
+}
